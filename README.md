@@ -1,3 +1,3 @@
 # DataScience
 
-My Data Science/Statistics Analysis projects
+My Data Science/Statistical Analysis projects
